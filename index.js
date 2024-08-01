@@ -1,7 +1,6 @@
 let toggle_cont=document.getElementById("box");
 let circle=document.getElementById("circle");
 let body=document.getElementsByTagName("body");
-console.log(body);
 let value=false;
 
 toggle_cont.addEventListener("click",()=>{
